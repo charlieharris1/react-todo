@@ -8,5 +8,30 @@
         "id": 1420070400000,
         "author": "Paul O’Shannessy",
         "text": "React is *great*!"
+    },
+    {
+        "id": 1453146170581,
+        "author": "Charlie Harris",
+        "text": "React"
+    },
+    {
+        "id": 1453146170582,
+        "author": "Tom",
+        "text": "Test comment"
+    },
+    {
+        "id": 1453544264241,
+        "author": "Charlie",
+        "text": "Test comment"
+    },
+    {
+        "id": 1453544492212,
+        "author": "Sam",
+        "text": "Test comment"
+    },
+    {
+        "id": 1453544954047,
+        "author": "Andrew",
+        "text": "Test comment"
     }
 ]
